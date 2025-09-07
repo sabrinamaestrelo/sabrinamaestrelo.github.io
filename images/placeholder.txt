@@ -1,0 +1,8 @@
+Esta pasta contém as imagens da landing page.
+
+Para uma implementação completa, adicione:
+- sabrina-maestrello.jpg (foto profissional da Sabrina)
+- favicon.ico (ícone do site)
+
+As imagens devem ser otimizadas para web (formato WebP recomendado) e ter boa qualidade.
+
