@@ -227,7 +227,9 @@ function redirectToKiwify(leadData) {
     closeLeadModal();
     
     // Redirecionar
-    window.location.href = kiwifyUrl;
+    //window.location.href = kiwifyUrl;
+    openLeadModal();
+
 }
 
 // Validar e-mail
