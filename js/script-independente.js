@@ -228,6 +228,7 @@ function redirectToKiwify(leadData) {
     
     // Redirecionar
     // window.location.href = kiwifyUrl;
+
     openLeadModal();
 
 }
